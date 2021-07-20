@@ -21,12 +21,12 @@
         "test:e2e": "jest --config ./test/jest-e2e.json"
     },
     "dependencies": {
-        "@nestjs/common": "^7.6.13",
+        "@nestjs/common": "^7.6.18",
         "@nestjs/config": "^0.6.3",
-        "@nestjs/core": "^7.6.13",
+        "@nestjs/core": "^7.6.18",
         "@nestjs/jwt": "^7.2.0",
         "@nestjs/passport": "^7.1.5",
-        "@nestjs/platform-express": "^7.6.13",
+        "@nestjs/platform-express": "^7.6.18",
         "buffer-image-size": "^0.6.4",
         "junk": "^3.1.0",
         "node-stream-zip": "^1.13.2",
