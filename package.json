@@ -29,7 +29,7 @@
         "@nestjs/platform-express": "^7.6.13",
         "buffer-image-size": "^0.6.4",
         "junk": "^3.1.0",
-        "node-stream-zip": "^1.13.2",
+        "node-stream-zip": "^1.13.6",
         "node-unrar-js": "^1.0.1",
         "passport": "^0.4.1",
         "passport-jwt": "^4.0.0",
