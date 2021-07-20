@@ -31,7 +31,7 @@
         "file-system": "^1.2.2",
         "node": "^14.4.0",
         "reverse-line-reader": "^0.2.6",
-        "rxjs": "~6.5.4",
+        "rxjs": "~6.6.7",
         "sanitize-filename": "^1.6.3",
         "tmp-promise": "^3.0.2",
         "tslib": "^1.10.0",
