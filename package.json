@@ -26,7 +26,7 @@
         "@nestjs/core": "^7.6.13",
         "@nestjs/jwt": "^7.2.0",
         "@nestjs/passport": "^7.1.5",
-        "@nestjs/platform-express": "^7.6.13",
+        "@nestjs/platform-express": "^10.3.6",
         "buffer-image-size": "^0.6.4",
         "junk": "^3.1.0",
         "node-stream-zip": "^1.13.2",
